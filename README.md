@@ -1,2 +1,4 @@
 # carp
-Climate-change Assesment model for the Renewable energy Power output (Carp) 
+Climate-change Assesment model for the Renewable energy Power output (CARP) 
+is a very constructed name for the first ever model i made.
+It is for my master thesis in geography so if anyone ever wants to use it feel free, but don't criticize to harshly, as I have not really learned programming in the uni. 
